@@ -42,3 +42,11 @@ Figure 5: Pickling Dat File Output
 This week’s lesson sought to understand the concepts of pickling and exception handling. Through pickling, it is possible to store the information into binary form which can be stored until later use. Exception handling will prove to be a useful tool in the future as it will help future users identify trouble in code execution without consulting the creator through detailed explanations.
 
 ## Github Page
+The following Github repository houses the scripts and documents for Assignment 07:
+
+https://github.com/jayohhhh/IntroToProg-Python-Mod07
+
+	The following Github page contains the web page which contains the similar information found in this documentation:
+
+https://github.com/jayohhhh/IntroToProg-Python-Mod07/blob/main/Assignment07_documentation.md
+
