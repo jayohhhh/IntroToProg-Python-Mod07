@@ -46,7 +46,7 @@ The following Github repository houses the scripts and documents for Assignment 
 
 https://github.com/jayohhhh/IntroToProg-Python-Mod07
 
-	The following Github page contains the web page which contains the similar information found in this documentation:
+The following Github page contains the web page which contains the similar information found in this documentation:
 
 https://github.com/jayohhhh/IntroToProg-Python-Mod07/blob/main/Assignment07_documentation.md
 
