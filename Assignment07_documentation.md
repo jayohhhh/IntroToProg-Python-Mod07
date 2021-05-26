@@ -24,7 +24,7 @@ The following Figure 1 shows implementation of pickling and exception handling t
 Figure 2 shows the output after committing the exception in the script. Inputting numbers will prompt the error and ends the script without any further prompts.
 ![image](https://user-images.githubusercontent.com/29714047/119613561-13443e80-bdb2-11eb-80af-09990de7c1f7.png)
 
-Figure 3 shows the output of the script without exception, ending with the printed value of the unpickled lunch list.
+Figure 3 shows the output of the script without exception, ending with the printed value of the unpickled lunch list. 
 ![image](https://user-images.githubusercontent.com/29714047/119613582-193a1f80-bdb2-11eb-8f41-cb4b4c1cba10.png)
 
 Figure 4 shows the output in CMD which mirrors the output shown in Pycharm. The contents are different due to the differing inputs but the output would be the same otherwise.
