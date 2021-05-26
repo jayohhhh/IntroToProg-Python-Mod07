@@ -11,8 +11,8 @@ In this week’s lesson, two power tools were explored in exception handling and
 ## Exception Handling
 
 ## Pickling
-Through web searching, the following website served as a good secondary source to the lecture as it gives a very simple explanation while going through the necessary inputs to utilize the pickle module:
-https://www.tutorialspoint.com/python-pickling
+Through web searching, the following website served as a good secondary source to the lecture as it gives a very simple explanation while going through the necessary inputs to utilize the pickle module:  
+https://www.tutorialspoint.com/python-pickling  
 The following figure shows implementation of pickling through my usage. I start by importing pickle which brings in the module. I store in my interests for breakfast, lunch and dinner in a list for the respective variables. Next I dump or pickle my lists into my dat file. I store each list into a new line of the dat file.
 
 ## Summary
